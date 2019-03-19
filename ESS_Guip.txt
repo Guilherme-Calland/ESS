@@ -13,6 +13,7 @@ nao quer lhe permitir pazer push no projeto)
 
 git clone --> cria uma copia na sua maquina
 
+quando abrir a outra tela ":wq"
 git push origin <nome_branch> --> criar branch la no repo
 
 git commit -m "mensagem" --> criacao da arvore de grafos toda, caso eu faça uma
