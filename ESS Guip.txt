@@ -1,0 +1,29 @@
+
+git branch nome_branch --> criar branch 
+git checkout nome_branch --> apontar para a branch nome_branch
+git checkout master --> apontar para o master 
+git merge nome_branch --> juntar as novidades do novo_branch e do master
+                          dentro do master(ponteiro atual)
+git push --> mandar pro repositório do github
+git pull --> o contrário, faz o merge com o que vc ta mexendo 
+com o do repo
+
+fork --> copia do projeto no repo (caso o dono do processo 
+nao quer lhe permitir pazer push no projeto)
+
+git clone --> cria uma copia na sua maquina
+
+git push origin <nome_branch> --> criar branch la no repo
+
+git commit -m "mensagem" --> criacao da arvore de grafos toda, caso eu faça uma
+mudança indesejava, eu posso voltar para essa commit
+
+
+git branch --> ver todas as branches
+
+git log --graph --branches --> ver historico de commits
+
+ 
+ 
+
+	
