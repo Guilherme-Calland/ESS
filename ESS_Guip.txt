@@ -24,6 +24,11 @@ git branch --> ver todas as branches
 
 git log --graph --branches --> ver historico de commits
 
+#########################
+
+realease(release date)
+hpa varias milestones em uma release.
+
  
  
 
